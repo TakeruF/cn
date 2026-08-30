@@ -26,6 +26,13 @@
 
 [产品介绍](https://takeruf.github.io/token_meter/) · [macOS 下载](https://github.com/TakeruF/token_meter/releases/latest) · [源代码](https://github.com/TakeruF/token_meter)
 
+## 开源项目 / MCP
+
+- **[China Rail MCP](https://github.com/TakeruF/china-rail-mcp)**：只读的中国铁路 MCP 服务器，可查询 12306 车站、时刻、票价、余票、车次和经停站，不提供订票或账户自动化功能。
+- **[Japan Rail MCP](https://github.com/TakeruF/japan-rail-mcp)**：以新干线为重点的只读 MCP 服务器。无需凭据即可查询车站目录；配置 Ekispert API 密钥后，还可查询实时列车时刻、票价、席别和经停站。
+- **[MCP Mail Core](https://github.com/TakeruF/mcp-mail-core)**：以安全为重点的多账户邮件 MCP 核心与服务商接口，适用于 Gmail、QQ 邮箱和 iCloud 邮箱集成。
+- **[Silkroad MCP](https://github.com/TakeruF/silkroad-mcp)**：面向亚洲服务、设备和标准协议的 MCP 项目目录，包含可复用组件、蓝图与模板。
+
 ## 关于我
 
 [GitHub 主页](https://github.com/TakeruF)
