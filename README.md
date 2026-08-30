@@ -8,7 +8,15 @@
 
 **支持平台：** Android 13 及以上版本（需要 Shizuku）
 
-[产品介绍](https://github.com/TakeruF/android-perapp-language-selector/blob/main/README.zh-CN.md) · [下载](https://github.com/TakeruF/android-perapp-language-selector/releases/latest) · [源代码](https://github.com/TakeruF/android-perapp-language-selector)
+<p align="center">
+  <img src="assets/per-app-language.png" alt="应用语言切换器的应用列表界面" width="280">
+</p>
+
+<p align="center">
+  <a href="https://github.com/TakeruF/android-perapp-language-selector/releases/latest/download/app-release.apk"><img src="https://raw.githubusercontent.com/machiav3lli/oandbackupx/main/badge_github.png" alt="Get it on GitHub" height="60"></a>
+</p>
+
+[产品介绍](https://github.com/TakeruF/android-perapp-language-selector/blob/main/README.zh-CN.md) · [全部版本](https://github.com/TakeruF/android-perapp-language-selector/releases/latest) · [源代码](https://github.com/TakeruF/android-perapp-language-selector)
 
 ## Token Meter
 
