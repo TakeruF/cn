@@ -22,9 +22,9 @@
 
 一款原生的用量查看工具，可汇总 Claude Code、Codex 和 Copilot CLI 的本地会话数据，帮助查看每日、每周及用量限制信息。
 
-**支持平台：** macOS、Windows
+**支持平台：** macOS（Windows 版正在开发中，暂未提供）
 
-[产品介绍](https://takeruf.github.io/token_meter/) · [下载](https://github.com/TakeruF/token_meter/releases/latest) · [源代码](https://github.com/TakeruF/token_meter)
+[产品介绍](https://takeruf.github.io/token_meter/) · [macOS 下载](https://github.com/TakeruF/token_meter/releases/latest) · [源代码](https://github.com/TakeruF/token_meter)
 
 ## 关于我
 
