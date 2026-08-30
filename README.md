@@ -9,7 +9,7 @@
 **支持平台：** Android 13 及以上版本（需要 Shizuku）
 
 <p align="center">
-  <img src="assets/per-app-language.png" alt="应用语言切换器的应用列表界面" width="280">
+  <img src="assets/per-app-language.png" alt="应用语言切换器的应用列表界面" width="220">
 </p>
 
 <p align="center">
@@ -23,6 +23,12 @@
 一款原生的用量查看工具，可汇总 Claude Code、Codex 和 Copilot CLI 的本地会话数据，帮助查看每日、每周及用量限制信息。
 
 **支持平台：** macOS（Windows 版正在开发中，暂未提供）
+
+<p align="center">
+  <img src="assets/token-meter-1.jpg" alt="Token Meter 菜单栏用量概览" width="330">
+  <img src="assets/token-meter-2.jpg" alt="Token Meter 每日用量与模型统计" width="330">
+  <img src="assets/token-meter-3.jpg" alt="Token Meter 简体中文设置界面" width="330">
+</p>
 
 [产品介绍](https://takeruf.github.io/token_meter/) · [macOS 下载](https://github.com/TakeruF/token_meter/releases/latest) · [源代码](https://github.com/TakeruF/token_meter)
 
