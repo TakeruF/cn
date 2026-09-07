@@ -1,3 +1,5 @@
+[作品介绍 · 全部项目](https://takeruf.com/work)
+
 # 我的作品
 
 我是 Takeru，一名来自东京的学生开发者和产品创作者。我主要开发实用的移动应用与开发者工具。
@@ -30,7 +32,7 @@
   <img src="assets/token-meter-3.jpg" alt="Token Meter 简体中文设置界面" width="330">
 </p>
 
-[产品介绍](https://takeruf.github.io/token_meter/) · [macOS 下载](https://github.com/TakeruF/token_meter/releases/latest) · [源代码](https://github.com/TakeruF/token_meter)
+[产品介绍](https://takeruf.com/projects/token-meter) · [macOS 下载](https://github.com/TakeruF/token_meter/releases/latest) · [源代码](https://github.com/TakeruF/token_meter)
 
 ## 开源项目 / MCP
 
