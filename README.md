@@ -4,31 +4,7 @@
 
 我是 Takeru，一名在东京的学生开发者和产品创作者。我开发 Web、移动端和 Mac 应用，也通过 MCP 将 AI 连接到日常使用的服务。
 
-以下介绍根据截至 **2026 年 11 月 19 日**的公开项目与发行信息整理。
-
-## Hanlu
-
-面向日语使用者的中文学习应用，将 HSK 词汇、例句、发音和测验放在一起。支持按级别学习，通过选择题、拼写和听力测验复习，并在设备之间同步学习进度。
-
-**支持平台：** Web · iOS · Android
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TakeruF/me/main/public/projects/hanlu.webp" alt="Hanlu 在电脑、平板和手机上的学习界面" width="660">
-</p>
-
-[产品介绍](https://hanlu.app/about) · [开始学习](https://hanlu.app/learn) · [App Store](https://apps.apple.com/jp/app/hanlu/id6760371605) · [Google Play](https://play.google.com/store/apps/details?id=com.hanlu.app)
-
-## Hanlu Dict
-
-面向日语使用者的中文词典，可用简体中文、日语或拼音检索，查看释义、发音、例句和 HSK 级别。查询无需注册；登录后可收藏单词，并在 Hanlu 中继续复习。
-
-**公开使用入口：** Web · App Store
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TakeruF/me/main/public/projects/hanlu-dict.webp" alt="Hanlu Dict 在电脑、平板和手机上的词典界面" width="660">
-</p>
-
-[打开词典](https://dict.hanlu.app) · [App Store](https://apps.apple.com/jp/app/hanlu-dict/id6776096856)
+以下精选对中文用户有实际用途的应用和开源项目，根据截至 **2026 年 11 月 19 日**的公开项目与发行信息整理。
 
 ## Token Meter
 
